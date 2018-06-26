@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc90957e-0f00-4068-8e4d-1ea504144a89" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/iris/algo/newlis.java" />
-    </list>
+    <list default="true" id="dc90957e-0f00-4068-8e4d-1ea504144a89" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/iris/niukeJune/Main.java" />
         <option value="$PROJECT_DIR$/src/iris/algo/lis.java" />
+        <option value="$PROJECT_DIR$/src/iris/algo/newlis.java" />
       </list>
     </option>
   </component>
@@ -309,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6811000" />
+    <option name="totallyTimeSpent" value="7005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
