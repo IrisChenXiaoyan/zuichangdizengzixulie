@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class lis {
     /**
      * 产生dp数组
+     * dp[i]代表以当前i结尾时的最长递增子序列的长度
      * @param arr
      * @return
      */
