@@ -3,6 +3,11 @@ package iris.algo;
 import java.util.Arrays;
 
 public class lis {
+    /**
+     * 产生dp数组
+     * @param arr
+     * @return
+     */
     public static int[] getdp1(int[] arr) {
         int[] dp = new int[arr.length];
         for (int i = 0; i < arr.length; i++) {
